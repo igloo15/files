@@ -1,0 +1,10 @@
+*
++aptima-cp.deltekenterprise.com
++aptima.okta.com
++github.com
++gitlab.aptima.com
++google.com
++intranet.aptima.com
++localhost
++pfsense.localdomain
++stackoverflow.com
