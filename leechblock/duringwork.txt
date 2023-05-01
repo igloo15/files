@@ -48,3 +48,4 @@
 *yahoo.com
 *youtube.com
 *zeroscans.com
++music.youtube.com
