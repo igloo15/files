@@ -1,3 +1,4 @@
+kiosk_config=https://raw.githubusercontent.com/igloo15/files/main/porteus/config.txt
 connection=wired
 dhcp=yes
 disable_navigation_bar=yes
