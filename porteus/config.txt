@@ -1,0 +1,5 @@
+connection=wired
+dhcp=yes
+disable_navigation_bar=yes
+refresh_webpage=1800
+homepage=https://home.igloo15.com/lovelace-officedisplay/0?kiosk
