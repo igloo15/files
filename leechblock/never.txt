@@ -5,4 +5,4 @@
 *facebook.com
 *free-spider-solitaire.com
 +music.youtube.com
-*q=frieren*
+~q=frieren*
