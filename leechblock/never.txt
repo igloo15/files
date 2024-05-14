@@ -5,4 +5,4 @@
 *facebook.com
 *free-spider-solitaire.com
 +music.youtube.com
-^https?:\/+((www\.)?google\.com)\/search(.*)q=(\w+\++)*(frieren|anime|reaction)
+^((www\.)?google\.com)\/search(.*)q=(\w+\++)*(frieren|anime|reaction)
