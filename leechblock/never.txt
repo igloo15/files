@@ -5,3 +5,4 @@
 *facebook.com
 *free-spider-solitaire.com
 +music.youtube.com
+*google.com*tbm=vid*
