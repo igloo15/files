@@ -42,4 +42,5 @@
 *wuxiaworld.com
 *yahoo.com
 *youtube.com
++music.youtube.com
 *zeroscans.com
