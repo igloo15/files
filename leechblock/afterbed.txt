@@ -1,7 +1,7 @@
 *
 +aptima-cp.deltekenterprise.com
 +aptima.okta.com
-+github.com
++github
 +gitlab.aptima.com
 +google.com
 +intranet.aptima.com
@@ -9,3 +9,4 @@
 +pfsense.localdomain
 +stackoverflow.com
 +paylocity.com
++myuhc.com
